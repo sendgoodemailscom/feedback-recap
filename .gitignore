@@ -1,0 +1,14 @@
+# Local reviewer identity (keep your name/email out of the public repo)
+config.json
+
+# Node
+node_modules/
+
+# Work files (temp exports, manifests, extracted comments)
+*.tmp.json
+manifest.json
+reviewer-comments.json
+doc-*.json
+
+# OS
+.DS_Store
